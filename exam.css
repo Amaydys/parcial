@@ -1,0 +1,91 @@
+header {
+    color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav {
+    border: 1px solid #ccc;
+}
+section {
+    border: 1px solid #ccc;
+}
+.carousel-item img {
+    max-width: 30%; 
+    display: block;
+    margin: 0 auto;
+    min-height: 30%;
+    height: auto;
+    }
+    
+    
+    .carousel-indicators {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+   
+
+    .carousel-indicators button {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #888;
+        border: none;
+        margin: 0 5px;
+    }
+
+   
+    .carousel-indicators button.active {
+        background-color: #333;
+    }
+    article {
+        text-align: center;
+        margin: 0 auto;
+        max-width: 1000px;
+        padding: 20px;
+
+    }
+    p {
+        text-align: left;
+        margin-bottom: 15px;
+    }
+    footer {
+        padding: 20px;
+        text-align: center;
+    }
+    button {
+        
+        color: blue;
+        padding: 10px 20px;
+        cursor: none;
+        margin: 0 10px;
+        border: 2px solid blue;
+    }

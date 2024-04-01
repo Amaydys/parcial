@@ -1,0 +1,36 @@
+
+.container {
+
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    width: 300%;
+    
+
+    
+}
+.container form .user-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+    .user-details .input-box input{
+        height: 20px;
+        width: 70%;
+        margin-bottom: 28%;
+    }
+form .user-details .input-box {
+    margin: 20px 0 2px 0;
+}
+.alargar {
+    width: 600px; /* Ancho deseado */
+
+
+}
+.checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
