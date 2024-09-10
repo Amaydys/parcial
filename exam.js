@@ -100,3 +100,9 @@
 
         alert(mensaje);
     }
+    
+
+    
+    function cancelar() {  
+        window.location.href = "exam.html"; 
+    }

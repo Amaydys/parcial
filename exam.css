@@ -81,11 +81,4 @@ section {
         padding: 20px;
         text-align: center;
     }
-    button {
-        
-        color: blue;
-        padding: 10px 20px;
-        cursor: none;
-        margin: 0 10px;
-        border: 2px solid blue;
-    }
+    
