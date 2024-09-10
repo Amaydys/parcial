@@ -1,0 +1,33 @@
+.h{
+    width: 98%;
+    height: 1%;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 90px;
+    background-color: black;
+}
+
+  
+  .iconos img {
+    float: left;
+    max-width: 200px; /* Establece el ancho máximo de la imagen */
+    height: auto; /* Permite que la altura se ajuste automáticamente */
+    display: block; /* Para evitar problemas de alineación */
+    margin: 0 auto 10px; /* Centra la imagen horizontalmente */
+  }
+  
+  .iconos .text-box {
+ position: absolute;
+  top: 0;
+  float: left;
+
+  }
+
+  .iconos a {
+    display: inline-block; /* Convierte los elementos en línea para que estén en fila */
+    margin-top: 50px;
+    
+  }
+  
+  

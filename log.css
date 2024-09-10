@@ -1,0 +1,64 @@
+header {
+    color: white;
+    padding: 10px;
+    
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav {
+    border: 1px solid #ccc;
+}
+
+aside {
+    text-align: center; /* Centra los elementos horizontalmente */
+  }
+  .login {
+    width: 400px; /* Ancho del contenedor del formulario */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    padding: 75px; /* Espacio interno */
+    border: 1px solid #ccc; /* Borde para resaltar el formulario */
+  }
+  .login h4 {
+    margin-bottom: 50px; /* Espacio inferior del encabezado */
+  }
+  .formulario {
+    text-align: center; /* Alinea el texto a la izquierda dentro del formulario */
+  }  
+  .caja {
+    margin-bottom: 15px; /* Espacio entre los elementos */
+  }
+  input {
+    width: 70%; /* Ancho completo del input */
+    padding: 5px; /* Espaciado interno del input */
+    margin-top: 5px; /* Espacio superior del input */
+  }
+  .botones button {
+    display: inline-block; /* Convierte los botones en elementos en línea */
+    margin: 70px 0px; /* Espacio entre los botones */
+  }
+  
